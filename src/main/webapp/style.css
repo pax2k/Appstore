@@ -1,0 +1,48 @@
+body {
+    background: black;
+    color: ghostwhite;
+    font-family: monospace;
+}
+
+a {
+    color: lightsalmon;
+}
+
+.version {
+    padding-top: 5px;
+    padding-left: 15px;
+}
+
+img.top {
+    vertical-align: middle;
+}
+
+.oldVersion {
+    padding-top: 10px;
+}
+
+.latest {
+    padding-top: 10px;
+}
+
+.repoName {
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+.applicationHeader{
+    padding-top: 25px;
+    font-size: 20px;
+}
+
+.appWrapper{
+    width: 500px;
+    border: 1px solid whitesmoke;
+    margin-top: 5px;
+}
+
+.appWrapper:hover{
+    cursor: pointer;
+    background-color: darkgray;
+}
+
